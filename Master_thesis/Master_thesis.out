@@ -1,0 +1,15 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{The call center arrivals forecasting problem}{}% 2
+\BOOKMARK [1][-]{section.3}{Methods}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Time series}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Autocorrelation Function \(ACF\)}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Exponential Smoothing methods}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.4}{Autoregressive Integrated Moving Average \(ARIMA\) Models}{section.3}% 7
+\BOOKMARK [1][-]{section.4}{Dataset and experiments description}{}% 8
+\BOOKMARK [2][-]{subsection.4.1}{Data description}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.2}{Performance measure}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.3}{ARIMA}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.4}{Exponential Smoothing}{section.4}% 12
+\BOOKMARK [1][-]{section.5}{Results}{}% 13
+\BOOKMARK [1][-]{section.6}{Conclusions}{}% 14
+\BOOKMARK [1][-]{section*.29}{Literature}{}% 15
